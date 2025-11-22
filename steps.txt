@@ -1,0 +1,18 @@
+🟩 STEP 1 — Paste in the terminal to start
+
+cd ~/day1_voice_agent
+./start_app.sh
+
+🟩 STEP 2 — Start a Call
+
+Visit → http://localhost:3000
+Click → Start Call
+
+Allow microphone access
+
+🟩 STEP 3 — START TALKING
+
+Say something like:
+
+"Hello, how are you?"
+.......
